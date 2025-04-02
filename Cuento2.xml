@@ -1,0 +1,12 @@
+<!DOCTYPE cuento SYSTEM "cuentos.dtd">
+<cuento cod="B34" titulo="El Gato Negro" genero="terror">
+  <personajes>
+    <personaje id="P3" tipo="antagonista">
+      <nombre>Gato</nombre>
+      <genero>N</genero>
+      <imagen>gato_negro.jpg</imagen>
+    </personaje>
+  </personajes>
+  <trama>Un gato trae mala suerte a su dueño.</trama>
+  <etiqueta nombre="terror psicológico"/>
+</cuento>

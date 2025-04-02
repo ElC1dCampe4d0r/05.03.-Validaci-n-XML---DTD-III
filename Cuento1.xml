@@ -1,0 +1,20 @@
+<!DOCTYPE cuento SYSTEM "cuentos.dtd">
+<cuento cod="A12" titulo="Caperucita Roja" genero="infantil">
+  <personajes>
+    <personaje id="P1" tipo="principal">
+      <nombre>Caperucita</nombre>
+      <genero>F</genero>
+      <descripcion>Una niña valiente</descripcion>
+      <descripcion_fisica>Capucha roja</descripcion_fisica>
+    </personaje>
+    <personaje id="P2" tipo="antagonista">
+      <nombre>Lobo</nombre>
+      <genero>M</genero>
+      <url>http://ejemplo.com/lobo</url>
+    </personaje>
+  </personajes>
+  <trama>Una niña lleva comida a su abuela y se enfrenta a un lobo.</trama>
+  <etiqueta nombre="clásico"/>
+  <etiqueta nombre="infantil"/>
+  <precio moneda="eur">12.99</precio>
+</cuento>
